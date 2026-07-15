@@ -16,8 +16,7 @@ This texture pack brings a neat and high-resolution visual, covering all the van
 Minecraft version: >1.20
 
 
-> This repo is Kelvin_LBY's Continuation of Fogg05's for future compatibility updates, in memory of Fogg05.
-
+> This repo is Kelvin_LBY's Continuation of Fogg05's for future compatibility updates, in memory of Fogg05.<br>
 > 这个仓库是Kelvin_LBY的分支，为CozyUI+提供新版兼容性更新，谨以此纪念零雾〇五。
 
 [![video](assets/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
