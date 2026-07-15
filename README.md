@@ -20,8 +20,6 @@ Minecraft version: >1.20
 
 > 这个仓库是Kelvin_LBY的分支，为CozyUI+提供新版兼容性更新，谨以此纪念零雾〇五。
 
-***
-
 [![video](assets/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
 
 ***
@@ -89,15 +87,11 @@ In the item description of the Enchanted Book, a small icon has been added in fr
 
 在附魔书的物品介绍中，给附魔属性添加了小图标。
 
-***
-
 #### OptiGUI MOD
 
 Various colored shulker boxes, droppers, dispensers, and ender chests can be distinguished by the background color.
 
 各种颜色的潜影盒、投掷器和发射器、末影箱的界面可以通过背景颜色区分。
-
-***
 
 #### Emoji+ & MCsans+
 
@@ -109,15 +103,11 @@ https://github.com/Fogg05/Emoji-Plus
 
 https://github.com/Fogg05/MCsans-Plus
 
-***
-
 #### Experience bar RGB - 经验条RGB
 
 Inventory selection boxes and experience bars feature RGB cycling with a very slow gradient, where the colors are continually adjusted to ensure a leisurely and soothing pace.
 
 物品栏选中框、经验条会 RGB 循环渐变，渐变速度非常慢，颜色经过反复调整，确保节奏悠闲舒缓。
-
-***
 
 #### Button Animations - UI控件动画
 
