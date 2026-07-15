@@ -1,0 +1,16 @@
+{
+    "ui.button.click": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "05/click_new",
+                "volume": 1.0,
+                "pitch": 1.0,
+                "weight": 1,
+                "stream": false,
+                "preload": true,
+                "type": "file"
+            }
+        ]
+    }
+}

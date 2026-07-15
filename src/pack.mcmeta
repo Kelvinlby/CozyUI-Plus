@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [ 1, 64 ],
+    "min_format": 1,
+    "max_format": 9999,
+    "description": [
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"By 零雾〇五Fogg05 ","color":"#ffffff"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"🥪🥳🏖\n","color":"#ffffff"},
+      {"bold":false,"italic":false,"underlined":false,"strikethrough":false,
+      "text":"1.20.0 ~ 1.21.11","color":"#54fcfc"}
+    ]
+  }
+}

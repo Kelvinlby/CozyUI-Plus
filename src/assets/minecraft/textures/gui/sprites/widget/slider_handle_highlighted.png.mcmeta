@@ -1,0 +1,33 @@
+{
+    "gui": {
+        "scaling": {
+            "type": "nine_slice",
+            "width": 8,
+            "height": 20,
+            "border": {
+                "left": 2,
+                "top": 2,
+                "right": 2,
+                "bottom": 3
+            },
+            "stretch_inner": true
+        }
+    },
+    "animation": {
+    "frametime": 1,
+    "width": 32,
+    "height": 80,
+    "interpolate": true,
+    "frames": [
+      0,
+      1,
+      2,
+      3,3,3,3,3,3,3,
+      3,3,3,3,3,3,3,
+      3,3,3,3,3,3,3,
+      3,3,3,3,3,3,3,
+      2,
+      1
+    ]
+  }
+}

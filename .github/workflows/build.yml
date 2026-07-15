@@ -1,0 +1,29 @@
+name: Build Resource Pack
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create zip archive
+        id: pack
+        run: |
+          SHORT_SHA="$(git rev-parse --short HEAD)"
+          echo "short_sha=${SHORT_SHA}" >> "$GITHUB_OUTPUT"
+          cd src
+          zip -r "${GITHUB_WORKSPACE}/CozyUI+_build.${SHORT_SHA}.zip" .
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: CozyUI+_build.${{ steps.pack.outputs.short_sha }}
+          path: CozyUI+_build.${{ steps.pack.outputs.short_sha }}.zip
+          retention-days: 7
+          if-no-files-found: error

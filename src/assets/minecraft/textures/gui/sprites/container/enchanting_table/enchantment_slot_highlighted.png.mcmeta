@@ -1,0 +1,14 @@
+{
+    "animation": {
+    "frametime": 20,
+    "width": 432,
+    "height": 76,
+    "interpolate": true,
+    "frames": [
+      0,
+      1,
+      2,
+      3
+    ]
+  }
+}
