@@ -9,6 +9,7 @@
 ### 游戏版本 ≥1.20
 
 > Kelvin_LBY's Continuation of Fogg05's for future compatibility updates
+
 > 谨以此纪念零雾〇五
 
 ***
