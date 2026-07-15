@@ -1,26 +1,32 @@
-![image](description_image/banner.jpg)
-![image](description_image/title.gif)
+<p align="center">
+<img src="assets/banner.jpg" alt="cozyui-logo" width="100%"/>
+</p>
 
-# CozyUI+
+<h1 align="center">CozyUI+</h1>
+<p align="center">Give Minecraft a cozy look!</p>
 
-### Modifies the User Interface into a neat and subtle high-definition style, covering all the vanilla UI elements as well as many useful client mods.
-### GameVersion ≥1.20
-### 这是一款将用户界面修改为简洁、细腻的高清风格的材质包，修改了所有的原版界面和许多实用的客户端模组。
-### 游戏版本 ≥1.20
+<br>
+
+## Texture Info ● 简介
+
+This texture pack brings a neat and high-resolution visual, covering all the vanilla UI elements and many popular mods.
+
+这款材质包带来简洁细腻，高清风格的用户界面，兼容所有原生UI和众多常见的模组。
+
+Minecraft version: >1.20
+
+
+> This repo is Kelvin_LBY's Continuation of Fogg05's for future compatibility updates, in memory of Fogg05.
+
+> 这个仓库是Kelvin_LBY的分支，为CozyUI+提供新版兼容性更新，谨以此纪念零雾〇五。
 
 ***
 
-This repo is Kelvin_LBY's Continuation of Fogg05's for future compatibility updates, in memory of Fogg05.
-
-这个仓库是Kelvin_LBY的分支，为CozyUI+提供新版兼容性更新，谨以此纪念零雾〇五。
+[![video](assets/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
 
 ***
 
-[![video](description_image/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
-
-***
-
-### 如果喜欢 🥰 我的作品，🙏 请务必在网页右上角 ↗️ 给这个项目点颗星星 ⭐Star 感谢您的支持！！！🤩🤩🤩
+#### 如果喜欢 🥰 我的作品，🙏 请务必在网页右上角 ↗️ 给这个项目点颗星星 ⭐Star 感谢您的支持！！！🤩🤩🤩
 
 作者Ｂ站：https://space.bilibili.com/350715147
 
@@ -28,15 +34,12 @@ This repo is Kelvin_LBY's Continuation of Fogg05's for future compatibility upda
 
 ***
 
-材质包现在以 GPL 协议开源，欢迎大家参与创作~
+## License ● 许可证
 
-Feel free to join in the creation of my pack, which is now open-source under the GPL license!
+This project is open sourced under GPL-v3.0 license, feel free to contribute!
 
-***
+材质包现在以 GPL 3.0协议开源，欢迎大家参与创作~
 
-###    Title 名称: CozyUI+
-   
-###    Author 作者: 零雾〇五 Fogg05
    
 This pack is based on - 作品基于：
 
@@ -46,7 +49,7 @@ This pack is based on - 作品基于：
 
 ***
 
-### ● Covered mods - 作品适配过的MOD
+## Compatible mods ● 适配MOD列表
 
 | Mod Name 模组名称 | Link 链接 | - |
 |:------:|:------:|:------:|
@@ -72,15 +75,15 @@ Overflowing Bars | [🔗 Modrinth](https://modrinth.com/mod/overflowing-bars) | 
 
 ***
 
-### ● Recipes in the brewing stand - 酿造台配方
+## Custom Adjustments ● 新增特性
+
+#### Recipes in the brewing stand - 酿造台配方
 
 All the recipes are drawn on the brewing stand interface to help everyone memorize.
 
 在酿造台界面上绘制了所有的配方，帮助大家记忆。
 
-***
-
-### ● Small icon in front of enchantment names - 附魔小图标
+#### Small icon in front of enchantment names - 附魔小图标
 
 In the item description of the Enchanted Book, a small icon has been added in front of enchantment names.
 
@@ -88,7 +91,7 @@ In the item description of the Enchanted Book, a small icon has been added in fr
 
 ***
 
-### ● OptiGUI MOD
+#### OptiGUI MOD
 
 Various colored shulker boxes, droppers, dispensers, and ender chests can be distinguished by the background color.
 
@@ -96,7 +99,7 @@ Various colored shulker boxes, droppers, dispensers, and ender chests can be dis
 
 ***
 
-### ● Emoji+ & MCsans+
+#### Emoji+ & MCsans+
 
 Modify the fonts to high-definition NotoSans and FluentEmoji.
 
@@ -108,7 +111,7 @@ https://github.com/Fogg05/MCsans-Plus
 
 ***
 
-### ● Experience bar RGB - 经验条RGB
+#### Experience bar RGB - 经验条RGB
 
 Inventory selection boxes and experience bars feature RGB cycling with a very slow gradient, where the colors are continually adjusted to ensure a leisurely and soothing pace.
 
@@ -116,7 +119,7 @@ Inventory selection boxes and experience bars feature RGB cycling with a very sl
 
 ***
 
-### ● Button Animations - UI控件动画
+#### Button Animations - UI控件动画
 
 Some buttons will be animated in game versions ≥1.21
 
