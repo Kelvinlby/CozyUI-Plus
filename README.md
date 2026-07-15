@@ -16,8 +16,14 @@ This texture pack brings a neat and high-resolution visual, covering all the van
 Minecraft version: >1.20
 
 
-> This repo is Kelvin_LBY's continuation of Fogg05's CozyUI+, for future compatibility updates. In memory of Fogg05.<br>
-> 这个仓库是Kelvin_LBY的分支，为CozyUI+提供新版兼容性更新，谨以此纪念零雾〇五。
+>This repo is Kelvin_LBY's continuation of Fogg05's CozyUI+, kept alive to ensure future compatibility updates. Fogg05 was a talented creator who built something truly special — this fork exists to honor that work and keep it in the hands of the community who loved it. 💙 In memory of Fogg05.<br>
+> 这个仓库是 Kelvin_LBY 的分支，旨在为 CozyUI+ 提供持续的新版本兼容更新。零雾〇五是一位才华横溢的创作者，留下了这份珍贵的作品——这个分支的存在，是为了延续他的心血，让热爱它的人们能够继续使用。💙 谨以此纪念零雾〇五。
+>
+> I'm primarily a mod developer, so texture pack work is a bit outside my comfort zone — which means your contributions matter more than ever! Whether you're fixing a misaligned pixel, adding a new mod compatibility, or just catching a bug, every pull request is genuinely appreciated. No contribution is too small. 🙌<br>
+> 我主要做的是模组开发，材质包并不是我最擅长的领域——这也意味着你的贡献比以往任何时候都更加重要！ 无论是修复错位的像素、添加新的模组适配，还是发现一个小 bug，每一个 PR 都会被认真对待。没有任何贡献是微不足道的。🙌
+>
+> If you'd like to help maintain Fogg05's vision, feel free to open an issue, submit a PR, or just say hi in the discussions. This project belongs to the everyone of us. ❤️<br>
+> 如果你愿意帮助延续零雾〇五的创作理念，欢迎提 issue、发起 PR，或者在讨论区打个招呼。这个项目属于我们每一个人。❤️
 
 [![video](assets/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
 
