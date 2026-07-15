@@ -7,6 +7,10 @@
 ### GameVersion ≥1.20
 ### 这是一款将用户界面修改为简洁、细腻的高清风格的材质包，修改了所有的原版界面和许多实用的客户端模组。
 ### 游戏版本 ≥1.20
+
+> Kelvin_LBY's Continuation of Fogg05's for future compatibility updates
+> 谨以此纪念零雾〇五
+
 ***
 
 [![video](description_image/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
