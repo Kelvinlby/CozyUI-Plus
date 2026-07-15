@@ -45,7 +45,7 @@ This pack is based on - 作品基于：
 
 - NotoSans：https://github.com/notofonts/noto-cjk
 
-***
+<br>
 
 ## Compatible mods ● 适配MOD列表
 
@@ -71,7 +71,7 @@ Simple Voice Chat - 简单的语音聊天 | [🔗 Modrinth](https://modrinth.com
 Entity Features - 实体特性 | [🔗 Modrinth](https://modrinth.com/mod/entitytexturefeatures) | 🔄 Optional
 Overflowing Bars | [🔗 Modrinth](https://modrinth.com/mod/overflowing-bars) | 🔄 Optional
 
-***
+<br>
 
 ## Custom Adjustments ● 新增特性
 
