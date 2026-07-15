@@ -8,9 +8,11 @@
 ### 这是一款将用户界面修改为简洁、细腻的高清风格的材质包，修改了所有的原版界面和许多实用的客户端模组。
 ### 游戏版本 ≥1.20
 
-> Kelvin_LBY's Continuation of Fogg05's for future compatibility updates
+***
 
-> 谨以此纪念零雾〇五
+This repo is Kelvin_LBY's Continuation of Fogg05's for future compatibility updates, in memory of Fogg05.
+
+这个仓库是Kelvin_LBY的分支，为CozyUI+提供新版兼容性更新，谨以此纪念零雾〇五。
 
 ***
 
@@ -36,11 +38,11 @@ Feel free to join in the creation of my pack, which is now open-source under the
    
 ###    Author 作者: 零雾〇五 Fogg05
    
-● This pack is based on - 作品基于：
+This pack is based on - 作品基于：
 
-○ Fluent Emoji：https://github.com/microsoft/fluentui-emoji
+- Fluent Emoji：https://github.com/microsoft/fluentui-emoji
 
-○ NotoSans：https://github.com/notofonts/noto-cjk
+- NotoSans：https://github.com/notofonts/noto-cjk
 
 ***
 
